@@ -3,7 +3,7 @@ import argparse
 def extract_data(strap_arc_file, main_dol_file="main.dol", start_offset=3478400, expected_size=132351):
     try:
         with open(main_dol_file, 'rb') as main_dol:
-            main_dol.seek(start_offset)  # Move the file pointer to the start offset
+            main_dol.seek(start_offset) 
             data = main_dol.read(expected_size)
 
         with open(strap_arc_file, 'wb') as output:
