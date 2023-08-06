@@ -7,7 +7,7 @@ Assuming you have main.dol in the same folder as this script, here's some exampl
 
 ```python inject.py idunno.arc```
 
-- This injects the data from 'idunno.arc' into the section of 'main.dol' for the strap.arc data.
+- This injects the data from 'idunno.arc' into the section of 'main.dol' for the strap.arc data. The code automatically pads the extra 0s you may need if you are under file size of 132,351 bytes.
 
 ```python extract.py idunno.arc```
 
