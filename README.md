@@ -24,7 +24,7 @@ Adding the `-no_decompress` flag will make it so that you are injecting the data
 `strap_arc_file` should point to the file you are injecting.
 
 
-## Tips for modifying the file.
+## Tips for extraction and modification
 
 By default, these tools DO decompress and compress the Yaz0 format. 
 
