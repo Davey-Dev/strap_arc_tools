@@ -1,6 +1,6 @@
-# strap_arc_tools
+# strap.arc tools
 
-strap_arc_tools is a set of tools designed to simplify the process of extracting and injecting the `strap.arc` file from Wii Sports' `main.dol` file.
+strap.arc tools is a set of tools designed to simplify the process of extracting and injecting the `strap.arc` file from Wii Sports' `main.dol` file.
 
 Only requirement is to put the executable(s) in the same directory as your `main.dol` file.
 
