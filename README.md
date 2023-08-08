@@ -26,16 +26,12 @@ Adding the `-no_decompress` flag will make it so that you are injecting the data
 `strap_arc_file` should point to the file you are injecting.
 
 
-## Tips for extraction and modification
+## Tips for Modification
 
-By default, these tools DO decompress and compress the Yaz0 format. 
+I have written a full text guide on how to use this tool alongside other tools in order to replace textures and have them appear in-game. That guide can be found [here](https://docs.google.com/document/d/1l55WSyeNgI1XAzLc_PVrlI4oAwe5Qf6TACvlAqcS_UQ/edit?usp=sharing).
 
-If you plan on using [Wexos Toolbox](https://wiki.tockdom.com/wiki/Wexos%27s_Toolbox) to modify the arc file, you should use the `no_decompress` and `no_compress` flags as that program handles decompression and compression.
-
-If you plan on using the [CTools Pack](https://wiki.tockdom.com/wiki/CTools_Pack), you should not use these flags.
-
-Regardless of which extraction method you choose above, I'd recommend extracting each tpl file and modifying them using [BrawlCrate](https://github.com/soopercool101/BrawlCrate).
+[Andrew (Beta 64)](https://beta64.tv) has a video of his stream highlights where he used Wexos Toolbox and BrawlCrate. That video can be found [here](https://youtu.be/xf76Ui_MsaI).
 
 ## Special Thanks
 
-[Andrew (Beta 64)](https://beta64.tv) for showcasing the initial method of extracting and replacing files. His video using Wexos Toolbox and BrawlCrate can be found [here](https://youtu.be/xf76Ui_MsaI).
+[Andrew (Beta 64)](https://beta64.tv) for showcasing the initial method of extracting and replacing files using HxD.
