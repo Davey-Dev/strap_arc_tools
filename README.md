@@ -38,4 +38,4 @@ Regardless of which extraction method you choose above, I'd recommend extracting
 
 ## Special Thanks
 
-[Andrew (Beta 64)](https://beta64.tv) for showcasing the initial method of extracting and replacing files.
+[Andrew (Beta 64)](https://beta64.tv) for showcasing the initial method of extracting and replacing files. His video using Wexos Toolbox and BrawlCrate can be found [here](https://youtu.be/xf76Ui_MsaI).
